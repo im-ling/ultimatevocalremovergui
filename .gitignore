@@ -1,0 +1,6 @@
+__pycache__
+# models
+data.pkl
+gui_data/cr_text.txt
+**.pth
+**.onnx
